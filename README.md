@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🎯 Cybersecurity Focused | Offensive Security Learner | Former Top 1% Mixing Engineer
+## 🎯 Cybersecurity Focused | Offensive Security Learner | Top 1% Mixing Engineer
 
 Hi there, I’m Steve aka HckCrk 👋.  high-performance creative professional turned cybersecurity practitioner. I’m building deep expertise in offensive security, penetration testing, and red teaming. My GitHub is home to my hands-on learning journey, homelab builds, tooling experiments, writeups, and notes from platforms like Hack The Box, TryHackMe, and PentesterLab.
 
