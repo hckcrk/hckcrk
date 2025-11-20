@@ -25,7 +25,7 @@ Hi there, I’m Steve aka HckCrk 👋.  I'm a high-performance creative professi
 - Protocols; AI, web, and wireless
 - Hacking Windows and Azure Active Directory/Microsoft Entra ID
 
-🧠 I thrive at the intersection of creativity and problem-solving. You can follow my progress and articles over at my [GitHub Pages blog](https://hckcrk.github.io/hckcrk) 
+🧠 I thrive at the intersection of creativity and problem-solving. You can follow my progress and articles over at my [GitHub Pages blog](https://hckcrk.github.io) 
 
 **Let’s break things and build better defenses.**
 
