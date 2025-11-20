@@ -38,19 +38,19 @@ Hi there, I’m Steve aka HckCrk 👋.  high-performance creative professional t
 
 | Badge | Image |
 |-------|--------|
-| Academician | ![](assets/badges/academician.webp) |
-| Constant Champion | ![](assets/badges/constant-champion.webp) |
-| Cyber Starter | ![](assets/badges/cyber-starter.webp) |
-| Developer | ![](assets/badges/developer.webp) |
-| Dive Into Requests | ![](assets/badges/dive-into-requests.webp) |
-| Drop Your Weapon | ![](assets/badges/drop-your-weapon.webp) |
-| Fuzzing Guru | ![](assets/badges/fuzzing-guru.webp) |
-| Included in Every Report | ![](assets/badges/included-in-every-report.webp) |
-| Information Is Not Knowledge (Or Is It?) | ![](assets/badges/information-is-not-knowledge-or-is-it.webp) |
-| Inject With Caution | ![](assets/badges/inject-with-caution.webp) |
-| Join the Adventure | ![](assets/badges/join-the-adventure.webp) |
-| Philomath | ![](assets/badges/philomath.webp) |
-| Playing With the Mess | ![](assets/badges/playing-with-the-mess.webp) |
-| Unwaivering User | ![](assets/badges/unwaivering-user.webp) |
-| Your Request Is My Demand | ![](assets/badges/your-request-is-my-demand.webp) |
+| Academician | <img src="assets/badges/academician.webp" width="100"/> |
+| Constant Champion | <img src="assets/badges/constant-champion.webp" width="100"/> |
+| Cyber Starter | <img src="assets/badges/cyber-starter.webp" width="100"/> |
+| Developer | <img src="assets/badges/developer.webp" width="100"/> |
+| Dive Into Requests | <img src="assets/badges/dive-into-requests.webp" width="100"/> |
+| Drop Your Weapon | <img src="assets/badges/drop-your-weapon.webp" width="100"/> |
+| Fuzzing Guru | <img src="assets/badges/fuzzing-guru.webp" width="100"/> |
+| Included in Every Report | <img src="assets/badges/included-in-every-report.webp" width="100"/> |
+| Information Is Not Knowledge (Or Is It?) | <img src="assets/badges/information-is-not-knowledge-or-is-it.webp" width="100"/> |
+| Inject With Caution | <img src="assets/badges/inject-with-caution.webp" width="100"/> |
+| Join the Adventure | <img src="assets/badges/join-the-adventure.webp" width="100"/> |
+| Philomath | <img src="assets/badges/philomath.webp" width="100"/> |
+| Playing With the Mess | <img src="assets/badges/playing-with-the-mess.webp" width="100"/> |
+| Unwaivering User | <img src="assets/badges/unwaivering-user.webp" width="100"/> |
+| Your Request Is My Demand | <img src="assets/badges/your-request-is-my-demand.webp" width="100"/> |
 
